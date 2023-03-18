@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m76U9zXMxHnCXK12g0hQeMYBoVWXMjaRpThJIyagP+RDVJMxc0+bmrHLf6FPQgpdATsTAS2dwv4PnuO5F2EAAg==",
+  "dgSpecHash": "dT1JcCeyusQ3rU74yb/Kbn6OJC8mImG1BGar60QwgRNUE2cbYdAuzSkhKBDFEg/I/aNl7+TCwn6vQGkblXqqYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\ChessPairingProto.csproj",
+  "projectFilePath": "/Users/flav/Epita/ChessPairing/ChessPairingProto/ChessPairingProto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

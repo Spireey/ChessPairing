@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\ChessPairingProto.csproj": {}
+    "/Users/flav/Epita/ChessPairing/ChessPairingProto/ChessPairingProto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\ChessPairingProto.csproj": {
+    "/Users/flav/Epita/ChessPairing/ChessPairingProto/ChessPairingProto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\ChessPairingProto.csproj",
+        "projectUniqueName": "/Users/flav/Epita/ChessPairing/ChessPairingProto/ChessPairingProto.csproj",
         "projectName": "ChessPairingProto",
-        "projectPath": "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\ChessPairingProto.csproj",
-        "packagesPath": "C:\\Users\\oison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oison\\ChessPairing\\ChessPairingProto\\obj\\",
+        "projectPath": "/Users/flav/Epita/ChessPairing/ChessPairingProto/ChessPairingProto.csproj",
+        "packagesPath": "/Users/flav/.nuget/packages/",
+        "outputPath": "/Users/flav/Epita/ChessPairing/ChessPairingProto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\oison\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/flav/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

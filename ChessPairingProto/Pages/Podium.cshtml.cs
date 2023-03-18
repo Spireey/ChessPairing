@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace ChessPairingProto.Pages;
 
-public class PrivacyModel : PageModel
+public class PodiumModel : PageModel
 {
-    private readonly ILogger<PrivacyModel> _logger;
+    private readonly ILogger<PodiumModel> _logger;
 
-    public PrivacyModel(ILogger<PrivacyModel> logger)
+    public PodiumModel(ILogger<PodiumModel> logger)
     {
         _logger = logger;
     }

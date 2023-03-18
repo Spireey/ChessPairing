@@ -3,8 +3,30 @@
 @{
     ViewData["Title"] = "Home page";
 }
+@{ 
+    // Declare the list and add some items to it
+    var myList = new System.Collections.Generic.List<string>();
+    myList.Add("Match 1");
+    myList.Add("Match 2");
+    myList.Add("Match 3");
+}
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in myList)
+        {
+            <div class="col-md-4 mx-auto shadow">
+                <h3 class="text-center">@item</h3>
+                <p class="text-center">Player 1 vs Player 2</p>
+                <button class="btn btn-primary"><i class="fas fa-trophy"></i> Player 1</button>
+                <button class="btn btn-primary"><i class="fas fa-handshake"></i> Draw</button>
+                <button class="btn btn-primary"><i class="fas fa-trophy"></i> Player 2</button>
+            </div>
+        }
+    </div>
+</div>  
+
+
+
